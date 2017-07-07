@@ -1,0 +1,12 @@
+Dwyane Wade	35	SG	Cap Space	$23,800,000	-	-	($23,800,000)	$23,800,000 	25.54	
+Robin Lopez	29	C	Cap Space	$13,788,500	-	-	($28,146,250)	$13,788,500 	14.80	
+Cristiano Felicio	24	PF	Early Bird	$7,142,857	-	-	($32,000,000)	$7,142,857 	7.67	
+Justin Holiday	28	SG	Cap Space	$4,390,244	-	-	($9,000,000)	$4,390,244 	4.71	
+Kris Dunn	0	PG	Rookie	$4,046,760	-	-	($4,046,760)	$4,046,760 	4.34	
+Laui Markkanen	20	PF	Rookie	$3,821,640	-	-	($8,357,760)	$3,821,640 	4.10	
+Zach LaVine	22	SG	Rookie	$3,202,218	-	-	($3,202,218)	$3,202,218 	3.44	
+Cameron Payne	22	PG	Rookie	$2,203,440	-	-	($2,203,440)	$2,203,440 	2.36	
+Denzel Valentine	23	SG	Rookie	$2,186,400	-	-	($2,186,400)	$2,186,400 	2.35	
+Jerian Grant	24	PG	Rookie	$1,713,840	-	-	($1,713,840)	$1,713,840 	1.84	
+Bobby Portis	22	PF	Rookie	$1,516,320	-	-	($1,516,320)	$1,516,320 	1.63	
+Paul Zipser	23	SF	Minimum	$1,312,611	-	-	($905,249)	$1,312,611 	1.41	

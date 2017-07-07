@@ -1,0 +1,14 @@
+J.J. Redick	33	SG	Cap Space	$23,000,000	-	-	($23,000,000)	$23,000,000 	21.02	
+Amir Johnson	30	PF	Cap Space	$11,000,000	-	-	($11,000,000)	$11,000,000 	10.05	
+Jerryd Bayless	28	PG	Cap Space	$9,000,000	-	-	($17,575,916)	$9,000,000 	8.22	
+Ben Simmons	20	PF	Rookie	$6,168,840	-	-	($6,168,840)	$6,168,840 	5.64	
+Joel Embiid	23	C	Rookie	$6,100,266	-	-	($6,100,266)	$6,100,266 	5.57	
+Jahlil Okafor	21	C	Rookie	$4,995,120	-	-	($4,995,120)	$4,995,120 	4.56	
+Nik Stauskas	23	SG	Rookie	$3,807,147	-	-	($3,807,147)	$3,807,147 	3.48	
+Dario Saric	23	PF	Rookie	$2,422,560	-	-	($2,422,560)	$2,422,560 	2.21	
+Justin Anderson	23	SG	Rookie	$1,579,440	-	-	($1,579,440)	$1,579,440 	1.44	
+Robert Covington	26	SF	Cap Space	$1,577,230	-	-	($1,577,230)	$1,577,230 	1.44	
+Richaun Holmes	23	PF	Cap Space	$1,471,382	-	-	-	$1,471,382 	1.34	
+T.J. McConnell	25	PG	Minimum	$1,471,382	-	-	-	$1,471,382 	1.34	
+Furkan Korkmaz	19	SG	Rookie	$1,465,920	-	-	($2,965,520)	$1,465,920 	1.34	
+Timothe Luwawu-Cabarrot	22	SF	Rookie	$1,386,600	-	-	($1,386,600)	$1,386,600 	1.27	

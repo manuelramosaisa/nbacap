@@ -1,0 +1,12 @@
+LeBron James	32	SF	Early Bird	$33,285,709	-	-	($68,893,677)	$33,285,709 	24.48	
+Kevin Love	28	PF	Bird	$22,642,350	-	-	($72,357,075)	$22,642,350 	16.65	
+Kyrie Irving	25	PG	Bird	$18,868,625	-	-	($60,297,563)	$18,868,625 	13.88	
+Tristan Thompson	26	C	Bird	$16,400,000	-	-	($52,408,695)	$16,400,000 	12.06	
+J.R. Smith	31	SG	Bird	$13,760,000	-	-	($32,350,000)	$13,760,000 	10.12	
+Iman Shumpert	27	SG	Bird	$10,337,079	-	-	($21,348,315)	$10,337,079 	7.60	
+Channing Frye	34	PF	Cap Space	$7,420,912	-	-	($7,420,912)	$7,420,912 	5.46	
+Kyle Korver	36	SG	Bird	$6,481,481	-	-	($21,000,000)	$6,481,481 	4.77	
+Richard Jefferson	37	SF	Mini MLE	$2,500,000	-	-	($2,500,000)	$2,500,000 	1.84	
+Jose Calderon	35	PG	Minimum	$2,328,652	-	-	-	$1,471,382 	1.08	
+Walter Tavares	25	C	Minimum	$1,471,382	-	-	-	$1,471,382 	1.08	
+Kay Felder	22	PG	Mini MLE	$1,312,611	-	-	($456,529)	$1,312,611 	0.97	

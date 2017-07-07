@@ -1,0 +1,14 @@
+Kyle Lowry	31	PG	Bird	$30,864,198	-	-	($100,000,000)	$30,864,198 	23.66	
+DeMar DeRozan	27	SG	Bird	$27,739,975	-	-	($110,959,900)	$27,739,975 	21.26	
+Serge Ibaka	27	PF	Bird	$20,061,728	-	-	($65,000,000)	$20,061,728 	15.38	
+Jonas Valanciunas	25	C	Bird	$15,460,674	-	-	($49,617,978)	$15,460,674 	11.85	
+DeMarre Carroll	30	SF	Cap Space	$14,800,000	-	-	($30,200,000)	$14,800,000 	11.34	
+Cory Joseph	25	PG	Cap Space	$7,630,000	-	-	($15,575,000)	$7,630,000 	5.85	
+Lucas Nogueira	24	C	Rookie	$2,947,305	-	-	($2,947,305)	$2,947,305 	2.26	
+Jakob Poeltl	21	C	Rookie	$2,825,640	-	-	($2,825,640)	$2,825,640 	2.17	
+Bruno Caboclo	21	SF	Rookie	$2,451,225	-	-	($2,451,225)	$2,451,225 	1.88	
+Delon Wright	25	PG	Rookie	$1,645,200	-	-	($1,645,200)	$1,645,200 	1.26	
+Norman Powell	24	SG	Cap Space	$1,471,382	-	-	-	$1,471,382 	1.13	
+Fred VanVleet	23	PG	Minimum	$1,312,611	-	-	-	$1,312,611 	1.01	
+Pascal Siakam	23	PF	Rookie	$1,249,920	-	-	($1,249,920)	$1,249,920 	0.96	
+Kennedy Meeks	22	PF		-	-	-	-	- 	0.00	

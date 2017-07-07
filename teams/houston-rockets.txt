@@ -1,0 +1,15 @@
+James Harden	27	SG	Cap Space	$28,299,399	-	-	($91,424,746)	$28,299,399 	24.57	
+Chris Paul	32	PG	Bird	$24,268,959	$330,500	-	($24,599,459)	$24,599,459 	21.35	
+Ryan Anderson	29	PF	Cap Space	$19,578,454	-	-	($61,264,637)	$19,578,454 	17.00	
+Eric Gordon	28	SG	Cap Space	$12,943,020	-	-	($40,501,125)	$12,943,020 	11.24	
+Trevor Ariza	32	SF	Cap Space	$7,420,912	-	-	($7,400,000)	$7,420,912 	6.44	
+P.J. Tucker	32	SF	MLE	$5,581,395	-	-	-	$5,581,395 	4.84	
+Nene Hilario	34	PF	Non-Bird	$3,477,600	-	-	($10,954,440)	$3,477,600 	3.02	
+Zhou Qi	21	C	MLE	$2,824,605	-	-	-	$2,824,605 	2.45	
+Clint Capela	23	C	Rookie	$2,334,528	-	-	($2,334,528)	$2,334,528 	2.03	
+Ryan Kelly	26	PF	Minimum	$1,577,230	-	-	-	$1,577,230 	1.37	
+Shawn Long	24	PF	Cap Space	$1,312,611	-	-	-	$1,312,611 	1.14	
+Chinanu Onuaku	20	C	Cap Space	$1,312,611	-	-	($1,955,511)	$1,312,611 	1.14	
+Tim Quarterman	22	PG	Minimum	$1,312,611	-	-	-	$1,312,611 	1.14	
+Isaiah Taylor	22	PG	Cap Space	$1,312,611	-	-	-	$1,312,611 	1.14	
+Jarrod Uthoff	24	PF	Minimum	$1,312,611	-	-	-	$1,312,611 	1.14	

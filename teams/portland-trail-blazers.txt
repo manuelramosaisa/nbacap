@@ -1,0 +1,15 @@
+Damian Lillard	26	PG	Bird	$26,153,057	-	-	($115,560,020)	$26,153,057 	18.76	
+C.J. McCollum	25	SG	Bird	$23,962,572	-	-	($106,800,000)	$23,962,572 	17.19	
+Allen Crabbe	25	SF	Cap Space	$19,332,500	-	-	($56,332,500)	$19,332,500 	13.87	
+Evan Turner	28	SF	Cap Space	$17,131,148	-	-	($53,606,557)	$17,131,148 	12.29	
+Maurice Harkless	24	PF	Bird	$9,662,921	-	$500,000	($31,011,236)	$10,162,921 	7.29	
+Meyers Leonard	25	C	Bird	$9,904,494	-	-	($31,786,516)	$9,904,494 	7.10	
+Al-Farouq Aminu	26	SF	Cap Space	$7,319,035	-	-	($14,276,140)	$7,319,035 	5.25	
+Ed Davis	28	PF	Cap Space	$6,352,531	-	-	($6,352,531)	$6,352,531 	4.56	
+Noah Vonleh	21	PF	Rookie	$3,505,233	-	-	($3,505,233)	$3,505,233 	2.51	
+Zach Collins	19	PF	Rookie	$3,057,240	-	-	($6,686,160)	$3,057,240 	2.19	
+Jusuf Nurkic	22	C	Rookie	$2,947,305	-	-	($2,947,305)	$2,947,305 	2.11	
+Shabazz Napier	25	PG	Rookie	$2,361,360	-	-	($2,361,360)	$2,361,360 	1.69	
+Pat Connaughton	24	SG	Cap Space	$1,471,382	-	-	-	$1,471,382 	1.06	
+Caleb Swanigan	20	PF	Rookie	$1,465,920	-	-	($3,205,920)	$1,465,920 	1.05	
+Jake Layman	23	SF	Cap Space	$1,312,611	-	-	($905,249)	$1,312,611 	0.94	

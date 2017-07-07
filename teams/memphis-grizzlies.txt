@@ -1,0 +1,12 @@
+Mike Conley	29	PG	Bird	$28,530,608	-	-	($113,989,729)	$28,530,608 	28.76	
+Chandler Parsons	28	SF	Cap Space	$23,112,004	-	-	($72,321,773)	$23,112,004 	23.30	
+Marc Gasol	32	C	Bird	$22,642,350	-	-	($72,357,075)	$22,642,350 	22.83	
+Brandan Wright	29	PF	MLE	$5,955,760	-	-	($5,955,760)	$5,955,760 	6.00	
+Ben McLemore	24	SG	Mini MLE	$5,192,000	-	-	($10,643,600)	$5,192,000 	5.23	
+Troy Daniels	25	SG	Cap Space	$3,408,520	-	-	($6,667,069)	$3,408,520 	3.44	
+James Ennis	27	SF	Room	$3,028,410	-	-	($3,028,410)	$3,028,410 	3.05	
+Wade Baldwin	21	PG	Rookie	$1,874,400	-	-	($1,874,400)	$1,874,400 	1.89	
+Jarell Martin	23	PF	Rookie	$1,341,600	-	-	($1,341,600)	$1,341,600 	1.35	
+Deyonta Davis	20	PF	Cap Space	$1,312,611	-	-	($2,857,562)	$1,312,611 	1.32	
+Andrew Harrison	22	PG	Cap Space	$1,312,611	-	-	($987,525)	$1,312,611 	1.32	
+Wayne Selden	22	SG	Minimum	$1,312,611	-	-	-	$1,312,611 	1.32	

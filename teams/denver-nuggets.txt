@@ -1,0 +1,15 @@
+Paul Millsap	32	PF	Cap Space	$28,571,429	-	-	($90,000,000)	$28,571,429 	27.71	
+Kenneth Faried	27	PF	Bird	$12,921,348	-	-	($26,685,393)	$12,921,348 	12.53	
+Wilson Chandler	30	SF	Bird	$12,016,854	-	-	($24,817,416)	$12,016,854 	11.65	
+Darrell Arthur	29	PF	Non-Bird	$7,464,912	-	-	($14,929,824)	$7,464,912 	7.24	
+Jameer Nelson	35	PG	Cap Space	$4,736,050	-	-	($4,736,050)	$4,736,050 	4.59	
+Will Barton	26	SG	Bird	$3,533,333	-	-	($3,533,333)	$3,533,333 	3.43	
+Mike Miller	37	SG	Cap Space	$3,500,000	-	-	-	$3,500,000 	3.39	
+Emmanuel Mudiay	21	PG	Rookie	$3,381,480	-	-	($3,381,480)	$3,381,480 	3.28	
+Jamal Murray	20	PG	Rookie	$3,355,320	-	-	($3,355,320)	$3,355,320 	3.25	
+Gary Harris	22	SG	Rookie	$2,550,055	-	-	($2,550,055)	$2,550,055 	2.47	
+Trey Lyles	21	PF	Rookie	$2,441,400	-	-	($2,441,400)	$2,441,400 	2.37	
+Juan Hernangomez	21	PF	Rookie	$2,076,840	-	-	($2,076,840)	$2,076,840 	2.01	
+Malik Beasley	20	SG	Rookie	$1,700,640	-	-	($1,700,640)	$1,700,640 	1.65	
+Tyler Lydon	21	SF	Rookie	$1,579,440	-	-	($3,454,080)	$1,579,440 	1.53	
+Nikola Jokic	22	C	Cap Space	$1,471,382	-	-	($1,471,382)	$1,471,382 	1.43	

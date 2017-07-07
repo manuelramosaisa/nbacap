@@ -1,0 +1,13 @@
+Russell Westbrook	28	PG	Bird	$28,530,608	-	-	($59,051,723)	$28,530,608 	23.14	
+Steven Adams	23	C	Bird	$22,471,910	-	-	($100,000,000)	$22,471,910 	18.23	
+Paul George	27	SF	Bird	$19,508,958	-	-	($40,212,342)	$19,508,958 	15.82	
+Enes Kanter	25	PF	Bird	$17,884,175	-	-	($36,506,688)	$17,884,175 	14.51	
+Andre Roberson	25	SG	Bird	$9,259,259	-	-	($30,000,000)	$9,259,259 	7.51	
+Alex Abrines	24	SG	Cap Space	$5,725,000	-	-	($11,180,236)	$5,725,000 	4.64	
+Patrick Patterson	28	PF	Mini MLE	$5,192,000	-	-	($16,354,800)	$5,192,000 	4.21	
+Kyle Singler	29	SF	Bird	$4,666,500	-	-	($9,662,500)	$4,666,500 	3.79	
+Doug McDermott	25	SF	Rookie	$3,294,994	-	-	($3,294,994)	$3,294,994 	2.67	
+Jerami Grant	23	SF	Cap Space	$1,524,305	-	-	($1,524,305)	$1,524,305 	1.24	
+Josh Huestis	25	SF	Rookie	$1,471,382	-	-	($1,471,382)	$1,471,382 	1.19	
+Semaj Christon	24	PG	Cap Space	$1,312,611	-	-	-	$1,312,611 	1.06	
+Rashawn Thomas	22	PF		-	-	-	-	- 	0.00	

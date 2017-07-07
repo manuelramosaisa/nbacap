@@ -1,0 +1,10 @@
+Kent Bazemore	28	SF	Cap Space	$16,910,113	-	-	($54,269,663)	$16,910,113 	16.30	
+Dennis Schröder	23	PG	Bird	$15,500,000	-	-	($62,000,000)	$15,500,000 	14.94	
+Jamal Crawford	37	SG	Cap Space	$14,246,988	-	-	($17,246,988)	$14,246,988 	13.73	
+Miles Plumlee	28	C	Bird	$12,500,000	-	-	($37,500,000)	$12,500,000 	12.05	
+Marco Belinelli	31	SF	Cap Space	$6,606,061	-	-	($6,606,061)	$6,606,061 	6.37	
+Malcom Delaney	28	SG	Cap Space	$2,500,000	-	-	($2,500,000)	$2,500,000 	2.41	
+Taurean Prince	22	SF	Rookie	$2,422,560	-	-	($2,422,560)	$2,422,560 	2.33	
+John Collins	19	PF	Rookie	$1,936,920	-	-	($4,236,000)	$1,936,920 	1.87	
+DeAndre' Bembry	23	SG	Rookie	$1,567,200	-	-	($1,567,200)	$1,567,200 	1.51	
+Diamond Stone	20	C	Minimum	$1,312,611	-	-	($905,249)	$1,312,611 	1.27	

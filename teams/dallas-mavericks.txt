@@ -1,0 +1,13 @@
+Harrison Barnes	25	SF	Cap Space	$23,112,004	-	-	($72,321,773)	$23,112,004 	26.40	
+Wesley Matthews	30	SG	Cap Space	$17,884,175	-	-	($36,506,688)	$17,884,175 	20.43	
+Dwight Powell	25	PF	Cap Space	$9,003,125	-	-	($28,893,750)	$9,003,125 	10.28	
+Dirk Nowitzki	39	PF	Bird	$5,000,000	-	-	($5,000,000)	$5,000,000 	5.71	
+Devin Harris	34	PG	Cap Space	$4,402,546	-	-	($1,339,662)	$4,402,546 	5.03	
+Jose Barea	33	PG	Cap Space	$3,903,900	-	-	($7,614,750)	$3,903,900 	4.46	
+Dennis Smith Jr.	19	PG	Rookie	$3,218,280	-	-	($7,038,240)	$3,218,280 	3.68	
+Seth Curry	26	SG	Room	$3,028,410	-	-	($3,028,410)	$3,028,410 	3.46	
+Salah Mejri	31	C	Cap Space	$1,471,382	-	-	-	$1,471,382 	1.68	
+Nicolas Brussino	24	PG	Cap Space	$1,312,611	-	-	-	$1,312,611 	1.50	
+Yogi Ferrell	24	PG	Minimum	$1,312,611	-	-	($1,312,611)	$1,312,611 	1.50	
+Dorian Finney-Smith	24	SF	Cap Space	$1,312,611	-	-	-	$1,312,611 	1.50	
+A.J. Hammons	24	C	Cap Space	$1,312,611	-	-	($1,955,511)	$1,312,611 	1.50	

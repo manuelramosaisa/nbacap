@@ -1,0 +1,14 @@
+Giannis Antetokounmpo	22	PG	Bird	$22,471,910	-	-	($100,000,000)	$22,471,910 	18.69	
+Greg Monroe	27	C	Cap Space	$17,884,175	-	-	($17,884,175)	$17,884,175 	14.87	
+Khris Middleton	25	SF	Bird	$14,100,000	-	-	($40,100,000)	$14,100,000 	11.72	
+John Henson	26	PF	Bird	$10,422,536	-	-	($31,732,398)	$11,422,536 	9.50	
+Mirza Teletovic	31	PF	Cap Space	$10,500,000	-	-	($21,000,000)	$10,500,000 	8.73	
+Tony Snell	25	SF	Bird	$10,267,857	-	-	($46,000,000)	$10,267,857 	8.54	
+Matthew Dellavedova	26	SG	Cap Space	$9,607,500	-	-	($28,822,500)	$9,607,500 	7.99	
+Jabari Parker	22	PF	Rookie	$6,782,392	-	-	($6,782,392)	$6,782,392 	5.64	
+Spencer Hawes	29	PF	MLE	$6,021,175	-	-	($6,021,175)	$6,021,175 	5.01	
+Thon Maker	20	PF	Rookie	$2,684,160	-	-	($2,684,160)	$2,684,160 	2.23	
+DJ Wilson	21	PF	Rookie	$2,135,040	-	-	($4,669,320)	$2,135,040 	1.78	
+Rashad Vaughn	20	SG	Rookie	$1,889,040	-	-	($1,889,040)	$1,889,040 	1.57	
+Malcolm Brogdon	24	SG	Cap Space	$1,312,611	-	-	($1,312,611)	$1,312,611 	1.09	
+Gary Payton II	24	PG	Minimum	$1,312,611	-	-	-	$1,312,611 	1.09	

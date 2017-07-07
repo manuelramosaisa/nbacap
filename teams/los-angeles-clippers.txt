@@ -1,0 +1,14 @@
+Blake Griffin	28	PF	Bird	$29,700,000	-	-	($172,260,000)	$29,700,000 	24.71	
+DeAndre Jordan	29	C	Bird	$22,642,350	-	-	($46,761,375)	$22,642,350 	18.84	
+Danilo Gallinari	28	SF	Bird	$20,634,921	-	-	($65,000,000)	$20,634,921 	17.17	
+Austin Rivers	26	SG	Early Bird	$11,825,000	-	-	($24,475,000)	$11,825,000 	9.84	
+Louis Williams	30	SG	Cap Space	$7,000,000	-	-	($7,000,000)	$7,000,000 	5.82	
+Milos Teodosic	30	PG	MLE	$6,000,000	-	-	($12,300,000)	$6,000,000 	4.99	
+Wesley Johnson	29	SG	MLE	$5,881,260	-	-	($12,015,780)	$5,881,260 	4.89	
+Patrick Beverley	28	PG	Bird	$5,513,513	-	-	($5,513,513)	$5,513,513 	4.59	
+Sam Dekker	23	SF	Rookie	$1,794,600	-	-	($1,794,600)	$1,794,600 	1.49	
+DeAndre Liggins	29	SG	Minimum	$1,577,230	-	-	($26,773)	$1,577,230 	1.31	
+Montrezl Harrell	23	PF	MLE	$1,471,382	-	-	($1,471,382)	$1,471,382 	1.22	
+Brice Johnson	23	PF	Rookie	$1,331,160	-	-	($1,331,160)	$1,331,160 	1.11	
+Kyle Wiltjer	24	PF	Minimum	$1,312,611	-	-	-	$1,312,611 	1.09	
+Brandon Bass	32	PF	Minimum	-	-	-	-	$1,014,746 	0.84	

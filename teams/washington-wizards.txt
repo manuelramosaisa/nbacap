@@ -1,0 +1,15 @@
+Bradley Beal	24	SG	Bird	$23,775,506	-	-	($105,054,563)	$23,775,506 	23.47	
+John Wall	26	PG	Bird	$18,063,850	-	-	($37,233,650)	$18,063,850 	17.83	
+Ian Mahinmi	30	C	Cap Space	$16,661,641	-	-	($48,055,846)	$16,661,641 	16.45	
+Marcin Gortat	33	C	Bird	$12,782,609	-	-	($26,347,827)	$12,782,609 	12.62	
+Markieff Morris	27	PF	Bird	$8,000,000	-	-	($16,600,000)	$8,000,000 	7.90	
+Jason Smith	31	PF	Cap Space	$5,225,000	-	-	($10,675,000)	$5,225,000 	5.16	
+Jodie Meeks	29	SG	Bi-Annual	$3,290,000	-	-	($6,744,500)	$3,290,000 	3.25	
+Tomas Satoransky	25	SG	Cap Space	$3,000,000	-	-	($6,129,187)	$3,000,000 	2.96	
+Kelly Oubre	21	SF	Rookie	$2,093,040	-	-	($2,093,040)	$2,093,040 	2.07	
+Tim Frazier	26	PG	Non-Bird	$2,000,000	-	-	($2,000,000)	$2,000,000 	1.97	
+Mike Scott	29	PF	Minimum	$1,709,538	-	-	($1,471,382)	$1,471,382 	1.45	
+Chris McCullough	22	PF	Rookie	$1,471,382	-	-	($1,471,382)	$1,471,382 	1.45	
+Sheldon McLellan	24	SG	Minimum	$1,312,611	-	-	($50,000)	$1,312,611 	1.30	
+Daniel Ochefu	23	SF	Cap Space	$1,312,611	-	-	($50,000)	$1,312,611 	1.30	
+Mike Young	0	PF		-	-	-	-	- 	0.00	

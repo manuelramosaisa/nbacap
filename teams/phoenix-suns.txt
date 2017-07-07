@@ -1,0 +1,14 @@
+Eric Bledsoe	27	PG	Bird	$14,500,000	-	-	($29,500,000)	$14,500,000 	15.99	
+Brandon Knight	25	PG	Bird	$13,618,750	-	-	($43,893,750)	$13,618,750 	15.01	
+Tyson Chandler	34	C	Cap Space	$13,000,000	-	-	($26,585,000)	$13,000,000 	14.33	
+Jared Dudley	31	PF	Cap Space	$10,000,000	-	-	($19,530,000)	$10,000,000 	11.02	
+Josh Jackson	20	SF	Rookie	$5,090,040	-	-	($11,131,560)	$5,090,040 	5.61	
+Dragan Bender	19	PF	Rookie	$4,468,800	-	-	($4,468,800)	$4,468,800 	4.93	
+T.J. Warren	23	SF	Rookie	$3,152,931	-	-	($3,152,931)	$3,152,931 	3.48	
+Marquese Chriss	20	PF	Rookie	$3,073,800	-	-	($3,073,800)	$3,073,800 	3.39	
+Devin Booker	20	SG	Rookie	$2,319,360	-	-	($2,319,360)	$2,319,360 	2.56	
+Elijah Millsap	29	SG	Minimum	$1,524,305	-	-	-	$1,524,305 	1.68	
+Derrick Jones Jr.	20	SF	Cap Space	$1,312,611	-	-	-	$1,312,611 	1.45	
+Tyler Ulis	21	PG	Cap Space	$1,312,611	-	-	($1,312,611)	$1,312,611 	1.45	
+Mike James	26	PG		$815,615	-	-	-	$815,615 	0.90	
+Davon Reed	22	SG		$815,615	-	-	-	$815,615 	0.90	

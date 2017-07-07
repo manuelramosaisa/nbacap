@@ -1,0 +1,14 @@
+Victor Oladipo	25	SG	Bird	$21,000,000	-	-	($84,000,000)	$21,000,000 	24.93	
+Thaddeus Young	29	PF	Bird	$12,921,348	$1,875,000	$200,000	($26,685,393)	$14,996,348 	17.80	
+Al Jefferson	32	C	Cap Space	$9,769,821	-	-	($13,769,821)	$9,769,821 	11.60	
+Darren Collison	29	PG	Cap Space	$9,756,098	-	-	-	$9,756,098 	11.58	
+Lance Stephenson	26	SF	Cap Space	$4,180,000	-	-	($4,180,000)	$4,180,000 	4.96	
+Myles Turner	21	C	Rookie	$2,569,920	-	-	($2,569,920)	$2,569,920 	3.05	
+Domantas Sabonis	21	PF	Rookie	$2,550,000	-	-	($2,550,000)	$2,550,000 	3.03	
+TJ Leaf	20	PF	Rookie	$2,028,360	-	-	($4,435,920)	$2,028,360 	2.41	
+Kevin Seraphin	27	PF	Cap Space	$1,974,159	-	-	-	$1,974,159 	2.34	
+Georges Niang	24	SF	Cap Space	$1,471,382	-	-	($1,471,382)	$1,471,382 	1.75	
+Glen Robinson III	23	SG	Cap Space	$1,471,382	-	-	($1,471,382)	$1,471,382 	1.75	
+Joseph Young	25	PG	Cap Space	$1,471,382	-	-	($1,471,382)	$1,471,382 	1.75	
+Rakeem Christmas	25	PF		$50,000	-	-	-	$50,000 	0.06	
+Ben Moore	22	PF		-	-	-	-	- 	0.00	

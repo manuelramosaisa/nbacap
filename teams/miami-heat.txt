@@ -1,0 +1,13 @@
+Hassan Whiteside	28	C	Cap Space	$23,775,506	-	-	($76,302,788)	$23,775,506 	22.45	
+Goran Dragic	31	PG	Bird	$17,000,450	-	-	($54,327,525)	$17,000,450 	16.05	
+James Johnson	30	PF	Non-Bird	$13,953,488	-	-	($60,000,000)	$13,953,488 	13.17	
+Dion Waiters	25	SG	Cap Space	$12,093,023	-	-	($52,000,000)	$12,093,023 	11.42	
+Kelly Olynyk	26	C	Cap Space	$11,627,907	-	-	($50,000,000)	$11,627,907 	10.98	
+Wayne Ellington	29	SG	Cap Space	$6,270,000	-	-	-	$6,270,000 	5.92	
+Josh McRoberts	30	PF	Cap Space	$6,021,175	-	-	($6,021,175)	$6,021,175 	5.68	
+Tyler Johnson	24	SG	Cap Space	$5,881,260	-	-	($44,372,000)	$5,881,260 	5.55	
+Justise Winslow	21	SF	Rookie	$2,705,040	-	-	($2,705,040)	$2,705,040 	2.55	
+Edrice Adebayo	19	PF	Rookie	$2,490,360	-	-	($5,446,200)	$2,490,360 	2.35	
+Josh Richardson	23	SG	Mini MLE	$1,471,382	-	-	($1,471,382)	$1,471,382 	1.39	
+Rodney McGruder	25	SG	Cap Space	$1,312,611	-	-	-	$1,312,611 	1.24	
+Okaro White	24	SF	Minimum	$1,312,611	-	-	($328,152)	$1,312,611 	1.24	

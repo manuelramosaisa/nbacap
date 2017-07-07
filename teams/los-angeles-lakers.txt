@@ -1,0 +1,13 @@
+Brook Lopez	29	C	Bird	$22,642,350	-	-	($22,642,350)	$22,642,350 	24.06	
+Luol Deng	32	SF	Cap Space	$17,190,000	-	-	($54,000,000)	$17,190,000 	18.27	
+Jordan Clarkson	25	SG	Early Bird	$11,562,500	-	-	($37,500,000)	$11,562,500 	12.29	
+Corey Brewer	31	SG	Cap Space	$7,579,366	-	-	($7,579,366)	$7,579,366 	8.05	
+Tarik Black	25	C	Early Bird	$6,655,325	-	-	($6,655,325)	$6,655,325 	7.07	
+Lonzo Ball	19	PG	Rookie	$6,286,560	-	-	($13,748,520)	$6,286,560 	6.68	
+Brandon Ingram	19	SF	Rookie	$5,519,400	-	-	($5,519,400)	$5,519,400 	5.86	
+Julius Randle	22	PF	Rookie	$4,149,242	-	-	($4,149,242)	$4,149,242 	4.41	
+Larry Nance Jr.	24	PF	Rookie	$1,471,382	-	-	($1,471,382)	$1,471,382 	1.56	
+Kyle Kuzma	21	PF	Rookie	$1,423,560	-	-	($3,113,400)	$1,423,560 	1.51	
+Josh Hart	22	SG	Rookie	$1,394,520	-	-	($3,049,680)	$1,394,520 	1.48	
+David Nwaba	24	SG	Minimum	$1,312,611	-	-	($1,312,611)	$1,312,611 	1.39	
+Ivica Zubac	20	C	Cap Space	$1,312,611	-	-	($1,312,611)	$1,312,611 	1.39	

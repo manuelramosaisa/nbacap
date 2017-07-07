@@ -1,0 +1,13 @@
+Anthony Davis	24	PF	Bird	$23,775,506	-	-	($105,054,563)	$23,775,506 	21.42	
+Jrue Holiday	27	PG	Bird	$21,724,138	-	-	($126,000,000)	$21,724,138 	19.57	
+DeMarcus Cousins	26	C	Bird	$18,063,850	-	-	($18,063,850)	$18,063,850 	16.28	
+Solomon Hill	26	SF	Cap Space	$11,747,073	-	$489,462	($36,758,782)	$12,236,535 	11.03	
+Omer Asik	31	C	Bird	$10,595,505	-	-	($24,882,021)	$10,595,505 	9.55	
+E'Twaun Moore	28	SG	Cap Space	$8,445,024	-	-	($25,918,637)	$8,445,024 	7.61	
+Alexis Ajinca	29	C	Early Bird	$4,961,798	-	-	($10,247,191)	$4,961,798 	4.47	
+Quincy Pondexter	29	SF	Bird	$3,853,931	-	-	($3,853,931)	$3,853,931 	3.47	
+Jordan Crawford	28	SG	Minimum	$1,709,538	-	-	-	$1,709,538 	1.54	
+Darius Miller	27	SF	Minimum	$1,524,305	-	-	-	$1,524,305 	1.37	
+Axel Toupane	24	SG	Minimum	$1,471,382	-	-	-	$1,471,382 	1.33	
+Quinn Cook	24	PG	Minimum	$1,312,611	-	-	($25,000)	$1,312,611 	1.18	
+Cheick Diallo	20	C	Cap Space	$1,312,611	-	-	($1,405,249)	$1,312,611 	1.18	

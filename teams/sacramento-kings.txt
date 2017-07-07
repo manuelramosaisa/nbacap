@@ -1,0 +1,13 @@
+George Hill	31	PG	Cap Space	$18,095,238	-	-	($57,000,000)	$18,095,238 	17.30	
+Zach Randolph	35	PF	Cap Space	$11,707,317	-	-	($24,000,000)	$11,707,317 	11.19	
+Bogdan Bogdanovic	24	SG	Cap Space	$8,571,429	-	-	($27,000,000)	$8,571,429 	8.19	
+Kosta Koufos	28	C	Cap Space	$8,393,000	-	-	($17,132,500)	$8,393,000 	8.02	
+Vince Carter	40	SG	Cap Space	$8,000,000	-	-	($8,000,000)	$8,000,000 	7.65	
+Garrett Temple	31	SG	Cap Space	$8,000,000	-	-	($16,000,000)	$8,000,000 	7.65	
+Willie Cauley-Stein	24	PF	Rookie	$3,704,160	-	-	($3,704,160)	$3,704,160 	3.54	
+Buddy Hield	23	SG	Rookie	$3,675,480	-	-	($3,675,480)	$3,675,480 	3.51	
+Justin Jackson	22	SF	Rookie	$2,365,560	-	-	($5,173,440)	$2,365,560 	2.26	
+Georgios Papagiannis	20	C	Rookie	$2,301,360	-	-	($2,301,360)	$2,301,360 	2.20	
+Harry Giles	19	PF	Rookie	$1,859,400	-	-	($4,066,440)	$1,859,400 	1.78	
+Malachi Richardson	21	SG	Rookie	$1,504,560	-	-	($1,504,560)	$1,504,560 	1.44	
+Skal Labissiere	21	PF	Rookie	$1,242,240	-	-	($1,242,240)	$1,242,240 	1.19	

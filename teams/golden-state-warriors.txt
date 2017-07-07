@@ -1,0 +1,12 @@
+Stephen Curry	29	PG	Bird	$34,682,550	-	-	($201,158,790)	$34,682,550 	26.18	
+Kevin Durant	28	SF	Non-Bird	$25,000,000	-	-	($51,250,000)	$25,000,000 	18.87	
+Klay Thompson	27	SG	Bird	$17,826,150	-	-	($36,814,875)	$17,826,150 	13.46	
+Andre Iguodala	33	SG	Bird	$17,391,304	-	-	($33,185,185)	$17,391,304 	13.13	
+Draymond Green	27	PF	Bird	$16,400,000	-	-	($52,408,695)	$16,400,000 	12.38	
+Shaun Livingston	31	PG	Bird	$8,000,000	-	-	($20,000,000)	$8,000,000 	6.04	
+Nick Young	32	SF	Mini MLE	$5,192,000	-	-	($5,192,000)	$5,192,000 	3.92	
+David West	36	PF	Minimum	$2,328,652	-	-	($1,471,382)	$1,471,382 	1.11	
+Omri Casspi	29	SF	Minimum	$2,106,470	-	-	($1,471,382)	$1,471,382 	1.11	
+Kevon Looney	21	SF	Rookie	$1,471,382	-	-	($1,471,382)	$1,471,382 	1.11	
+Damian Jones	22	C	Rookie	$1,312,611	-	-	($1,312,611)	$1,312,611 	0.99	
+Patrick McCaw	21	SG	Minimum	$1,312,611	-	-	($905,249)	$1,312,611 	0.99	

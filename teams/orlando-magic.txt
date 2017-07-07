@@ -1,0 +1,12 @@
+Bismack Biyombo	24	PF	Cap Space	$17,000,000	-	-	($51,000,000)	$17,000,000 	15.68	
+Evan Fournier	24	SG	Bird	$17,000,000	-	-	($68,000,000)	$17,000,000 	15.68	
+Nikola Vucevic	26	C	Bird	$12,250,000	-	-	($24,500,000)	$12,250,000 	11.30	
+Terrence Ross	26	SF	Bird	$10,500,000	-	-	($21,000,000)	$10,500,000 	9.68	
+D.J. Augustin	29	PG	Cap Space	$7,250,000	-	-	($21,750,000)	$7,250,000 	6.69	
+Aaron Gordon	21	SF	Rookie	$5,504,420	-	-	($5,504,420)	$5,504,420 	5.08	
+C.J. Watson	33	PG	Cap Space	$5,000,000	-	-	($1,000,000)	$5,000,000 	4.61	
+Jonathan Isaac	19	SF	Rookie	$4,186,320	-	-	($9,155,400)	$4,186,320 	3.86	
+Mario Hezonja	22	SF	Rookie	$4,078,320	-	-	($4,078,320)	$4,078,320 	3.76	
+Elfrid Payton	23	PG	Rookie	$3,332,340	-	-	($3,332,340)	$3,332,340 	3.07	
+Patricio Garino	24	SF	Cap Space	$1,312,611	-	-	-	$1,312,611 	1.21	
+Marcus Georges-Hunt	23	SG	Cap Space	$1,312,611	-	-	-	$1,312,611 	1.21	

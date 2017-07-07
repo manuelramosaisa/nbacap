@@ -1,0 +1,13 @@
+Carmelo Anthony	33	SF	Bird	$26,243,760	-	-	($54,171,900)	$26,243,760 	21.52	
+Tim Hardaway Jr.	25	SG	Cap Space	$16,511,628	-	-	($71,000,000)	$16,511,628 	13.54	
+Courtney Lee	31	SG	Cap Space	$11,747,890	-	-	($36,761,340)	$11,747,890 	9.63	
+Lance Thomas	29	SF	Early Bird	$6,655,325	-	-	($14,774,975)	$6,655,325 	5.46	
+Kristaps Porzingis	21	PF	Rookie	$4,503,600	-	-	($8,821,320)	$4,503,600 	3.69	
+Kyle O'Quinn	27	C	Bird	$4,087,500	-	-	($8,343,750)	$4,087,500 	3.35	
+Frank Ntilinkina	18	PG	Rookie	$3,501,120	-	-	($7,656,840)	$3,501,120 	2.87	
+Mindaugas Kuzminskas	27	SF	Room	$3,028,410	-	-	($3,028,410)	$3,028,410 	2.48	
+Willy Hernangomez	23	C	Cap Space	$1,435,750	-	-	($2,932,250)	$1,435,750 	1.18	
+Marshall Plumlee	24	PF	Cap Space	$1,312,611	-	-	-	$1,312,611 	1.08	
+Chasson Randle	24	PG	Minimum	$1,312,611	-	-	-	$1,312,611 	1.08	
+Jamel Artis	24	SF		-	-	-	-	- 	0.00	
+Ron Baker	24	SG		-	-	-	-	- 	0.00	

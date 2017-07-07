@@ -1,0 +1,17 @@
+Otto Porter Jr.	24	SF	Cap Space	$24,773,250	-	-	($106,524,976)	$24,773,250 	24.33	
+Timofey Mozgov	30	C	Cap Space	$15,280,000	-	-	($48,000,000)	$15,280,000 	15.00	
+Jeremy Lin	28	PG	Cap Space	$12,000,000	-	-	($24,516,746)	$12,000,000 	11.78	
+Trevor Booker	29	PF	Cap Space	$9,125,000	-	-	($9,125,000)	$9,125,000 	8.96	
+Andrew Nicholson	27	PF	Cap Space	$6,362,998	-	-	($19,911,007)	$6,362,998 	6.25	
+D'Angelo Russell	21	PG	Rookie	$5,562,360	-	-	($5,562,360)	$5,562,360 	5.46	
+Justin Hamilton	27	C	Cap Space	$3,000,000	-	-	($3,000,000)	$3,000,000 	2.95	
+Quincy Acy	26	SF	Cap Space	$1,709,538	-	-	-	$1,709,538 	1.68	
+Caris LeVert	22	SG	Rookie	$1,632,480	-	-	($1,632,480)	$1,632,480 	1.60	
+Archie Goodwin	22	SG	Cap Space	$1,577,230	-	-	-	$1,577,230 	1.55	
+Spencer Dinwiddie	24	PG	Cap Space	$1,524,305	-	-	-	$1,524,305 	1.50	
+Joe Harris	25	SG	Minimum	$1,524,305	-	-	($1,524,305)	$1,524,305 	1.50	
+Sean Kilpatrick	27	SG	Minimum	$1,524,305	-	-	($1,524,305)	$1,524,305 	1.50	
+Rondae Hollis-Jefferson	22	SF	Rookie	$1,455,720	-	-	($1,455,720)	$1,455,720 	1.43	
+Isaiah Whitehead	22	PG	Cap Space	$1,122,248	-	-	($1,122,248)	$1,122,248 	1.10	
+Jeremy Senglin	22	PG		-	-	-	-	- 	0.00	
+Jacob Wiley	22	PF		-	-	-	-	- 	0.00	
