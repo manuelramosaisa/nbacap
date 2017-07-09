@@ -1,4 +1,10 @@
-from urllib.request import urlopen
+import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
+try: #python3
+    from urllib.request import urlopen
+except ImportError: #python2
+    from urllib2 import urlopen
 from bs4 import BeautifulSoup
 
 teams = [line.rstrip('\n') for line in open('teams.txt')]
